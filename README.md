@@ -6,3 +6,4 @@ am just testing Git!
 * Laravel
 * Flask
 * Django
+* MailChimp
